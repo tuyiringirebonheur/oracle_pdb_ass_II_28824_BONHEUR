@@ -25,11 +25,13 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 * Monitoring the environment using Oracle Enterprise Manager (OEM).
 
-
+----
 ## 2. Oracle Environment Used
 
 **Database:** Oracle Database 21c (Multitenant Architecture).
-* **Operating System:** Windows 11.
+
+**Operating System:** Windows 11.
+
 **Tools:** SQL*Plus, Oracle SQL Developer, and Oracle Enterprise Manager (OEM).
 
 
@@ -39,10 +41,11 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 <img width="589" height="401" alt="PDB CREATION (1)" src="https://github.com/user-attachments/assets/925e5700-5635-4911-a2a4-d0a10270e968" />
 
-
 **PDB Name:** `bo_pdb_28824`.
 
 **User Created:** `bonheur_plsqlauca_28824`.
+<img width="458" height="139" alt="creating user" src="https://github.com/user-attachments/assets/89a29c86-b985-4c87-a0da-0ecd385e1960" />
+
 
 **Process:** I created the PDB from the seed, opened it to a `READ WRITE` state, and established a local user with `CONNECT` and `RESOURCE` roles for future classwork.
 
