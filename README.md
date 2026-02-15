@@ -91,3 +91,12 @@ This repository contains the documentation and evidence for Individual Assignmen
 ## 6. Integrity Statement
 
 I certify that this is a mandatory individual practical assignment. I have performed all tasks individually and have not copied commands or screenshots from any external sources or classmates. This work reflects my own execution and documentation.
+
+**FINAL CHECKLIST**
+- [✅] Correct PDB names used  
+- [✅] User created inside the PDB  
+- [✅] Temporary PDB created and deleted  
+- [✅] OEM dashboard screenshot included  
+- [✅] GitHub repository is PUBLIC  
+- [✅] README is clear and professional  
+- [✅] Deadline respected
