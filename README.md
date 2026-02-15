@@ -37,7 +37,8 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 ### Task 1: Create a New Pluggable Database
 
-<img width="458" height="139" alt="creating user" src="https://github.com/user-attachments/assets/05a85f0a-d41e-4d4b-abe6-6ac91200d622" />
+<img width="589" height="401" alt="PDB CREATION (1)" src="https://github.com/user-attachments/assets/925e5700-5635-4911-a2a4-d0a10270e968" />
+
 
 **PDB Name:** `bo_pdb_28824`.
 
@@ -47,18 +48,19 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 
 ### Task 2: Create and Delete a PDB
+<img width="874" height="317" alt="CREATE AND DELETE PDBS" src="https://github.com/user-attachments/assets/109e64df-ef9a-4e2d-9da5-02e9650740ae" />
 
 **Temporary PDB Name:** `bo_to_delete_pdb_28824`.
-
 
 **Process:** I created a secondary PDB to demonstrate administrative control. After verifying its existence, I performed a complete deletion including datafiles to maintain system storage efficiency.
 
 
-
 ### Task 3: Oracle Enterprise Manager (OEM)
 
-* I configured and accessed the OEM dashboard to monitor the database health.
+<img width="932" height="468" alt="OEM DASHBOARD" src="https://github.com/user-attachments/assets/5d40ad6c-f121-4262-9b4b-adb03538efb9" />  <img width="907" height="442" alt="OEM DASHBOARD 2" src="https://github.com/user-attachments/assets/15ce0656-ace9-4a77-97dc-5d776d94bf35" />
 
+
+* I configured and accessed the OEM dashboard to monitor the database health.
 
 * The dashboard reflects the active state of `bo_pdb_28824` and confirms the successful execution of administrative tasks.
 
@@ -83,9 +85,6 @@ This repository contains the documentation and evidence for Individual Assignmen
  
 **Issues Encountered:** Yes (Solved) 
 
-
 ## 6. Integrity Statement
 
 I certify that this is a mandatory individual practical assignment. I have performed all tasks individually and have not copied commands or screenshots from any external sources or classmates. This work reflects my own execution and documentation.
-
-**Next Step:** Would you like me to help you verify your final screenshots to ensure they meet the visibility requirements for the user and PDB names before you submit?
