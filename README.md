@@ -28,7 +28,7 @@ This repository contains the documentation and evidence for Individual Assignmen
 ----
 ## 2. Oracle Environment Used
 
-**Database:** Oracle Database 21c (Multitenant Architecture).
+**Database:** Oracle Database 21c
 
 **Operating System:** Windows 11.
 
