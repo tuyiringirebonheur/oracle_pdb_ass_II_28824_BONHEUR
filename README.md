@@ -60,7 +60,8 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 ### Task 3: Oracle Enterprise Manager (OEM)
 
-<img width="932" height="468" alt="OEM DASHBOARD" src="https://github.com/user-attachments/assets/5d40ad6c-f121-4262-9b4b-adb03538efb9" />  <img width="907" height="442" alt="OEM DASHBOARD 2" src="https://github.com/user-attachments/assets/15ce0656-ace9-4a77-97dc-5d776d94bf35" />
+  <img width="944" height="401" alt="OEM DASH" src="https://github.com/user-attachments/assets/ada6629b-b1f9-45d7-a975-9b0cd09bee25" /> <img width="933" height="443" alt="OEM DASH 2" src="https://github.com/user-attachments/assets/48a8b809-ee35-46ff-9c6c-468e456ee94c" />
+
 
 
 * I configured and accessed the OEM dashboard to monitor the database health.
@@ -82,7 +83,7 @@ This repository contains the documentation and evidence for Individual Assignmen
 
 ## 5. Submission Details
 
-**Repository Link:** [Insert your GitHub URL here] 
+**Repository Link:** [(https://github.com/tuyiringirebonheur/oracle_pdb_ass_II_28824_BONHEUR.git) ]
  
 **PDB Name Created:** `bo_pdb_28824` 
  
